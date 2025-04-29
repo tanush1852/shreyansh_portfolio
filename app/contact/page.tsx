@@ -189,13 +189,13 @@ export default function ContactPage() {
                 <ContactInfoCard 
                   icon={<Mail className="h-5 w-5" />}
                   title="Email"
-                  content="shreyansh.salvi@example.com"
+                  content="shreyansh.salvi22@spit.ac.in"
                 />
                 
                 <ContactInfoCard 
                   icon={<Phone className="h-5 w-5" />}
                   title="Phone"
-                  content="+91 98765 43210"
+                  content="+91 91520 77133"
                 />
                 
                 <ContactInfoCard 
@@ -206,11 +206,11 @@ export default function ContactPage() {
               </motion.div>
 
               <motion.div variants={fadeUp} className="pt-6">
-                <h3 className="text-lg font-medium mb-4">Office Hours</h3>
+                <h3 className="text-lg font-medium mb-4">Available Hours</h3>
                 <p className="text-muted-foreground">
                   Monday - Friday: 9:00 AM - 6:00 PM IST<br />
                   Saturday: 10:00 AM - 2:00 PM IST<br />
-                  Sunday: Closed
+                  Sunday: Not Available
                 </p>
               </motion.div>
             </motion.div>
