@@ -150,19 +150,9 @@ const projects: Project[] = [
     demoLink: "https://ecommerce-demo.com",
     sourceLink: "https://github.com/shreyanshsalvi/ecommerce",
   },
+  
   {
     id: "2",
-    title: "Task Management App",
-    description: "Productivity application for managing tasks",
-    longDescription: "Developed a task management application with drag-and-drop functionality, team collaboration features, task assignment, deadline tracking, and notification system.",
-    image: "https://images.pexels.com/photos/8391656/pexels-photo-8391656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    tags: ["React", "Redux", "Firebase", "Material UI"],
-    category: "frontend",
-    demoLink: "https://task-manager-demo.com",
-    sourceLink: "https://github.com/shreyanshsalvi/task-manager",
-  },
-  {
-    id: "3",
     title: "Financial Dashboard",
     description: "Data visualization for financial metrics",
     longDescription: "Created an interactive dashboard for visualizing financial data with real-time updates, customizable charts, data filtering options, and export functionality.",
@@ -173,7 +163,7 @@ const projects: Project[] = [
     sourceLink: "https://github.com/shreyanshsalvi/finance-dashboard",
   },
   {
-    id: "4",
+    id: "3",
     title: "Social Media API",
     description: "Backend for a social networking platform",
     longDescription: "Designed and implemented a scalable API for a social media platform with features for user authentication, content posting, commenting, following users, and analytics.",
@@ -183,7 +173,7 @@ const projects: Project[] = [
     sourceLink: "https://github.com/shreyanshsalvi/social-api",
   },
   {
-    id: "5",
+    id: "4",
     title: "Weather Application",
     description: "Real-time weather forecasting app",
     longDescription: "Built a weather application that provides current conditions and forecasts for any location, featuring interactive maps, hourly predictions, and severe weather alerts.",
@@ -194,7 +184,7 @@ const projects: Project[] = [
     sourceLink: "https://github.com/shreyanshsalvi/weather-app",
   },
   {
-    id: "6",
+    id: "5",
     title: "Portfolio Website",
     description: "Professional developer portfolio",
     longDescription: "Designed and developed a professional portfolio website showcasing skills, projects, and contact information with a focus on performance, accessibility, and responsive design.",

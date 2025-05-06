@@ -217,9 +217,9 @@ const featuredProjects: Project[] = [
     link: "/projects/ecommerce",
   },
   {
-    title: "Task Management App",
-    description: "A productivity application for managing tasks, with drag-and-drop functionality and team collaboration features.",
-    image: "https://images.pexels.com/photos/8391656/pexels-photo-8391656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    title: "Weather Application",
+    description: "Built a weather application that provides current conditions and forecasts for any location, featuring interactive maps, hourly predictions, and severe weather alerts.",
+    image: "https://images.pexels.com/photos/1275413/pexels-photo-1275413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     tags: ["React", "Redux", "Firebase", "Material UI"],
     link: "/projects/task-manager",
   },
